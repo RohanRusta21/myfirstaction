@@ -5,5 +5,5 @@ Most Important Thing to notice while writing your lint is the perfect path for d
 
 i.e :
 
-YOUR_REPO_NAME/.github/workflows/_______.yml
+"YOUR_REPO_NAME/.github/workflows/_______.yml"
 
